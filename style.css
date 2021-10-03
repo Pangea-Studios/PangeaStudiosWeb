@@ -39,7 +39,7 @@ a {
 
 @font-face {
   font-family: simple;
-  src: url(fonts/simple.woff);
+  src: url(files/fonts/simple.woff);
 } 
 
 /* dropdown */
