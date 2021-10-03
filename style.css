@@ -79,3 +79,9 @@ a {
   display: block;
 }
 
+.searchBar input {
+  float: right;
+  margin-top: 5px;
+  font-family: simple;
+  font-size: 17px;
+}
